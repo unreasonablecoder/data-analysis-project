@@ -1,7 +1,7 @@
 1. Define Objective
 
 What problem are you trying to solve?
-Which State have the most orders, What category has most orders, total cancelled orders etc
+Which State have the most orders, What category has most orders, total cancelled orders, trend over time.
 
 2. Collect Data
 
