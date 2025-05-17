@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Analysis Using Python
+# 📊 Amazon Sales Analysis Using Python
 
 This project performs data analysis on Amazon sales data using Python. It is designed to help understand sales performance across product categories, cities, time periods, and identify top-selling items. Ideal for students, data analysts, or businesses wanting actionable insights from raw sales data.
 
