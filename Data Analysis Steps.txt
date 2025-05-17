@@ -6,71 +6,50 @@ Which State have the most orders, What category has most orders, total cancelled
 2. Collect Data
 
 Identify the data source(s): CSV files, databases, APIs, web scraping, etc.
-
 Gather all necessary data relevant to your objective.
-
+Extract CSV file from zip file
 
 3.Inspect and Clean the Data
 
-
 Handle missing values.
-
 Remove or fix incorrect, inconsistent, or duplicate entries.
-
 Convert data types as needed.
-
 Normalize formats (e.g., date formats, units).
-
 
 4. Explore the Data ( EDA - Exploratory Data Analysis )
 
-
 Use summary statistics and visualizations to:
-
 Understand data distribution.
-
 Identify patterns, outliers, and correlations.
-
 Generate hypotheses or areas for further analysis.
-
 
 5. Transform The data
 
 Create new variables or features (feature engineering).
-
 Aggregate or group data (e.g., monthly sales).
-
 Normalize or scale values if required.
-
 
 6. Analyse The Data
 
 Apply statistical or machine learning methods, if needed.
-
 Use tools like SQL, Excel, Python (pandas, NumPy, etc.).
-
 Test hypotheses or derive insights.
 
 
 7. Visualize the Findings
 
 Use charts, graphs, and dashboards (matplotlib, seaborn, Tableau, Power BI).
-
 Ensure visualizations are clear, informative, and tailored to your audience.
-
 
 8. Interpret and Communicate the Result
 
 Summarize key insights and trends.
-
 Provide actionable recommendations.
-
 Create reports or presentations for stakeholders.
 
 
 9. Document and Review
 
 Document your process, assumptions, and conclusions.
-
 Reflect on what worked well and what could be improved.
 
